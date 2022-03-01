@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word to the wise: or, Considerations humbly offered to our representatives who are to sit in the ensuing Parliament.</title>
+            <author>T. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09930</idno>
+            <idno type="OCLC"> 80923518</idno>
+            <idno type="STC">Wing S186B</idno>
+            <idno type="STC">ESTC R17084</idno>
+            <idno type="EEBO-CITATION">80923518</idno>
+            <idno type="OCLC">ocm 80923518</idno>
+            <idno type="VID">191985</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191985)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2897:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word to the wise: or, Considerations humbly offered to our representatives who are to sit in the ensuing Parliament.</title>
+                  <author>T. S.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin, at the Oxford-Arms-Inn in Warwick-Lane.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="admonition">
+            <pb facs="tcp:191985:1"/>
+            <head>
+               <hi>A Word to the Wiſe:</hi> OR, Conſiderations Humbly Offered to our Repreſentatives who are to ſit in the Enſuing Parliament.</head>
+            <p>THAT it's the Priviledg of Free-born <hi>Engliſh</hi> Men to Chuſe their Repreſentatives to ſit in Parliament; and their Repreſentatives Duty to act for them; and the Peo<g ref="char:EOLhyphen"/>ples Right to have free acceſs unto them, to make their Grievances Known (as was worthily obſerved by Sir <hi>Bar. Showers,</hi> in his Speech to the People when he was cho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at <hi>Exon</hi>): But conſidering the Great Concerns that lye upon them in Parliament-time, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d how unfit it is then to trouble them, it's therefore abſolutely neceſſary for them to <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ert the Peoples Right (that, as in Ancient Times, ſo now they may have a Committee <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ting in time of Parliament, to hear the Peoples Grievances, and, if ſit, to report <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em to the Houſe. And that they ſhould be choſen out of ſuch Members as have not Pla<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in Publick Offices; for it's not to be expected that the Peoples Complaints ſhould be <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ard and redreſt by ſuch as are complain'd againſt, or by thoſe as may be Guilty of the ſame <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>imes in other Offices; it having been of late ſeen, that the Complainants have been by <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe Witneſſes, for promiſes of Reward, confronted, and thereby rejected. and ſome of <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em ſtarved, or ruined, and in danger of being murthered; and the Offenders thereby couraged.</p>
+            <p>And to conſider the great Diſtreſs the People of <hi>England</hi> many Years paſt, and ſtill do <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>our under, by not having ſuch a Committee, to whom the People may without charge <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ply themſelves: and that for want thereof many Abuſes in the Government have not <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en inſpected, and the Offenders detected; and which would not only do the People Juſtice <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>giving them their Right herein, but it would alſo be a great Eaſe to the Houſe of Com<g ref="char:EOLhyphen"/>mons, in the preventing of many frivilous Petitions, which the whole Houſe is now ſo often <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oubled with, which cauſes ſo many Committees on purpoſe to hear particular Grievances, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe the Subject of the charge of getting Committees together, and of Clerks Fees, which oftentimes too heavy for their Pockets, and infallibly prevent the mutinous appearing of many perſons at the Parliament Door, which looks more like a Mob than petitioning. And conſidering how earneſt and willing Gentlemen are to take the great trouble and care <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on them to be the Peoples Repreſentatives, and what Promiſes they make when they are <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſen, and how the Eyes of the Nation is ſo much fixed on the enſuing Parliament at this <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncture of time, in which the People's good is ſo much depending, ſurely it can no ways be <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oubted, but their Repreſentatives will anſwer their Expectations herein, and with all Can<g ref="char:EOLhyphen"/>on hear their Grievances, and promote ſuch Bills as make for the Peoples good.</p>
+            <p>Humbly putting you in mind of two Bills (which to the Everlaſting Praiſe of the moſt Honourable Houſe of Peers) was ſent down by them to the Houſe of Commons the laſt Seſſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and to the great grief of many good men, by them rejected.</p>
+            <p>The one was for ſhortning Suits in Law and Equity, the length of <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſuch a bur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en to the people, that they cannot long endure.</p>
+            <p>The other was intituled <hi>Solvent</hi> and <hi>Inſolvent,</hi> by which the Solvent wh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lye in Priſon, and <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re able to pay their Debts, or by their Eſtates able to make ſatisfaction to their Creditors, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould be compelled thereunto, and the Inſolvent, who are not able to pay their Debts, or <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y their Eſtates could not make ſatisfaction to their Creditors, ſhould not lye in Priſon and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eriſh, with ſuch Cautions and Reſtrictions in the ſaid Bill expreſſed, that the Creditor could <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot be injured thereby.</p>
+            <p>
+               <hi>The</hi> Jews <hi>had Years of Jubilee, other Nations places of Relief; the</hi> Engliſh <hi>Nation hath neither.</hi>
+            </p>
+            <pb facs="tcp:191985:2"/>
+            <p>Doing Juſtice, hearing the Peoples Grievances, and Redreſſing them, puniſhing the Of<g ref="char:EOLhyphen"/>fendors, and Encouraging well-doing. In Divine Writ, and in all Ages hath been account<g ref="char:EOLhyphen"/>ed the beſt Government, and the happieſt People that do enjoy it; and ſuch Governments as do deny it to the People, deemed to the greateſt Judgments the Scripture any where do pronounce.</p>
+            <p>Trajan, <hi>A Heathen Emperor, when he was dying, called his Subjects to witneſs for him, that his Ear was always open to hear the Complaints of his Subjects, his heart ready to redreſs their Grievances, and his hands open to puniſh Offenders.</hi>
+            </p>
+            <p>Twas by the fair pretence of doing Juſtice, and hearing the Peoples Grievances that <hi>Ab<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lom</hi> raiſed a Rebellion, and endeavour'd to dethrone his Father, and the beſt of Kings.</p>
+            <p>Twas under pretence of King <hi>Charles</hi>'s denying the People their Rights of Parliament, and not hearing the Peoples Complaints, and redreſſing Grievances, that Arms was <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up a<g ref="char:EOLhyphen"/>gainſt him, and cauſed ſome of his Subjects to conſent to his Murther, by which King <hi>Charles</hi> the Second was ſo long kept out of the Throne.</p>
+            <p>Twas by Invading the Peoples Right, and not doing them Juſtice, King <hi>James</hi> the Se<g ref="char:EOLhyphen"/>cond was Abdicated.</p>
+            <p>Twas by <hi>Oliver Cromwells</hi> pretending to hear the Peoples Grievances, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ju<g ref="char:EOLhyphen"/>ſtice to be Adminiſtred to all Men, he Uſurped the Power of a Protector.</p>
+            <p>Twas by his hearing the meaneſt Man's Complaint, tho againſt the chiefeſt Miniſters of State, and keeping them from imbezling the Nations Treaſure; and when he <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> out any for Evil Practiſes, he never ſuffered them to go unpubliſhed, or took <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their places, by which he wanted not Mony to carry on his Deſign, which cauſed <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Power to laſt to his Lives end.</p>
+            <p>Twas by his preferring Men for their Merits, and not for Favour, Affection, or Mo<g ref="char:EOLhyphen"/>ney, that made his Officers true to him.</p>
+            <p>Twas by hearing the Complaints of the meaneſt Soldier and Seamen againſt their Supe<g ref="char:EOLhyphen"/>riour Officers (if Juſt) and paying them well, that made his Souldiers, and Seamen ſtand by him, that with a handful of Men he made the World dread him.</p>
+            <p>Twas his not heaping up the Nations Treaſure, to exalt his own Family, that cauſed ſo many of the Nation to love and ſtand by him, and that which makes his Government ſo much talked of, now we are under the beſt of Kings, is occaſioned by not puniſhing Offend<g ref="char:EOLhyphen"/>ers, who waſte the Nations Subſtance, and defraud the King.</p>
+            <p>Twas his ſubduing the Corruption of the Lawyers, and cauſing the Poor Mans Cauſe to be heard, as well as the Rich, and bringing our Laws as well as our Religion into our own Mother Tongue, by which the People could not be ruined by whole ſale, that cauſed the meaneſt ſort to love him.</p>
+            <p>Twas Admiral <hi>Blakes</hi> doing Juſtice to the Seamen, and loving them, and not ſtudying his own intereſt, that to <hi>England</hi>'s Glory, with a ſmall Fleet he Commanded the Seas, and to his praiſe be it ſpoken, when he died (though a Frugal Man) he left his Executor but 1300 <abbr>
+                  <hi>l.</hi>
+               </abbr> beſides his Paternal Eſtate.</p>
+            <p>Twas by the Lord Chancellor <hi>Jeffreys</hi> ſhortning Cauſes in Law and Equity, and by Cor<g ref="char:EOLhyphen"/>recting the Evil Practices of Attorneys, Sollicitors, and Bayliffs, that he has wiped off the ſtain of his Failings, for which the Mobb was like to Murther him, and is now ſo much applauded for what he did when he was Chancellor.</p>
+            <p>So that ſome who were good Men, and acted good things for the Government, under a bad Government, and thereby eſteemed for their good Actions, ſome of them, and ſome of their Children, ſince we have been under a good Government and the beſt of Kings, by acting bad things, have made themſelves of no eſteem.</p>
+            <p>The mentioning of all which, is not to vindicate any Uſurping Power but to excite ſuch as are under a Lawful Government, and the beſt of Princes, in good Actions, and making good Laws, to out-doe them that acted under an Uſurping Power.</p>
+            <p>To Conclude, By doing Juſtice to all Men, hearing the Complaints of the Oppreſſed, and redreſſing their Grievances, puniſhing Offenders, making Law-Suits ſhort and eaſie, where<g ref="char:EOLhyphen"/>by the Poor may have Right done them as well as the Rich, is that which alone can make the Government laſting, and the People happy; and will certainly bring God's Bleſſing upon our Repreſentatives, and People whom they do preſent; and make our Children's Children praiſe God that ſuch a Parliament ever did Sit.</p>
+            <closer>God Bleſs <hi>KING WILLIAM,</hi> and Proſper the good Proceedings of our Repreſentatives.
+<signed>T. S.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Baldwin,</hi> at the <hi>Oxford-Arms-Inn</hi> in <hi>Warwick-Lane.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
